@@ -134,6 +134,10 @@ A PR is a formal request for code review. It's where teammates check code qualit
 
 Integrates the profile feature code into the main development branch, dev.
 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/9821ca88-de37-4078-b9f9-04ac5d65e6d4" />
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/b163b42e-8449-4583-a171-fa7fbe7b81b3" />
+
 3. Clean Up Local dev
 
 git checkout dev
@@ -163,11 +167,17 @@ GO TO GITHUB: Create a PR from dev to main.
 
 This signifies that the code in dev is considered stable, tested, and ready for deployment to production.
 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/88de4340-972c-45af-9990-e4aeb01b0c35" />
+
 2. Merge PR
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/9fe73483-a26b-4679-a835-28005cd3fc63" />
 
 (After final approval, merge the PR on GitHub.)
 
 Makes the new features official by integrating them into the production branch (main).
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/6d00b869-ac65-4110-bcac-d6cab05bdfd5" />
 
 3. Update Local main
 
@@ -187,3 +197,5 @@ Attaches a lightweight, permanent label (v1.0.0) to the exact commit used for th
 git push origin v1.0.0
 
 Uploads the tag to GitHub, making the official release marker visible to all users.
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/f980021a-91f3-4fe5-a43b-91ec63f71a98" />
+
