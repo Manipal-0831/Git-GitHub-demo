@@ -134,9 +134,9 @@ A PR is a formal request for code review. It's where teammates check code qualit
 
 Integrates the profile feature code into the main development branch, dev.
 
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/9821ca88-de37-4078-b9f9-04ac5d65e6d4" />
+<img width="1920" height="980" alt="Image" src="https://github.com/user-attachments/assets/6a543224-6c66-42af-90f4-20ef70f2558f" />
 
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/b163b42e-8449-4583-a171-fa7fbe7b81b3" />
+<img width="1920" height="977" alt="Image" src="https://github.com/user-attachments/assets/323255dc-82a6-4d27-91ff-ff0851828292" />
 
 3. Clean Up Local dev
 
@@ -167,17 +167,17 @@ GO TO GITHUB: Create a PR from dev to main.
 
 This signifies that the code in dev is considered stable, tested, and ready for deployment to production.
 
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/88de4340-972c-45af-9990-e4aeb01b0c35" />
+<img width="1920" height="981" alt="Image" src="https://github.com/user-attachments/assets/161a61c3-60d3-4e04-a350-69a30f63477d" />
 
 2. Merge PR
 
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/9fe73483-a26b-4679-a835-28005cd3fc63" />
+<img width="1920" height="974" alt="Image" src="https://github.com/user-attachments/assets/4e7c2fda-e320-4ffe-bf1a-cebcac9f5e52" />
 
 (After final approval, merge the PR on GitHub.)
 
 Makes the new features official by integrating them into the production branch (main).
 
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/6d00b869-ac65-4110-bcac-d6cab05bdfd5" />
+<img width="1920" height="977" alt="Image" src="https://github.com/user-attachments/assets/25600ea4-f4a2-406e-b597-b2c5a1948293" />
 
 3. Update Local main
 
@@ -197,5 +197,5 @@ Attaches a lightweight, permanent label (v1.0.0) to the exact commit used for th
 git push origin v1.0.0
 
 Uploads the tag to GitHub, making the official release marker visible to all users.
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/f980021a-91f3-4fe5-a43b-91ec63f71a98" />
 
+<img width="1920" height="964" alt="Image" src="https://github.com/user-attachments/assets/291cbb00-a2fa-4645-accd-025cea875eb2" />
