@@ -38,19 +38,23 @@ git add .
 
 Prepares all new and changed files (README.md, .gitignore, etc.) to be included in the next saved snapshot (commit).
 
-5. Initial Commit
-
-git commit -m "feat(init): initial project setup and documentation"
-
-Saves the first version of the project permanently. We use the feat prefix to signify adding a new, foundational feature (the project itself).
-
-6. Connect to Remote
+5.  Connect to Remote
 
 git remote add origin <YOUR_GITHUB_REPO_URL>
 
 Links your local folder to the repository you created on GitHub (the remote destination).
 
+6. Initial Commit
+
+git commit -m "feat(init): initial project setup and documentation"
+
+Saves the first version of the project permanently. We use the feat prefix to signify adding a new, foundational feature (the project itself).
+
 7. Push Main Branch
+
+git branch -M main
+
+It Renames your local master branch to main to match the remote.
 
 git push -u origin main
 
@@ -60,7 +64,7 @@ Phase 2: Branching and Feature Development
 
 We create isolated branches (dev and feature) to prevent unstable code from affecting the stable, production-ready branch.
 
-Action
+Action as
 
 Command
 
